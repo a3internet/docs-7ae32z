@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ym4ini.ridlerlandscapes.co.nz/sitemap.xml
